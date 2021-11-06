@@ -9,7 +9,7 @@
 
 [***Developer-Support***](https://discord.gg/developer-support)
 
-[***My Bot Milax***]()
+[***My Bot Milax***](https://discord.com/api/oauth2/authorize?client_id=906284355998072932&permissions=8&scope=bot)
 
 `Commands For Install All Packages Write In Shell`
 
