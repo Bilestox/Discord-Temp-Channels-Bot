@@ -14,6 +14,6 @@
 `Commands For Install All Packages Write In Shell`
 
 `
-npm i discord.js@11 node-cmd fs ms ytdl-core canvas hh-mm-ss youtube-info simple-youtube-api util gif-search jimp guild hastebin-gen get-youtube-id pretty-ms moment request ffmpeg 
+npm i express discord.js@11 node-cmd fs ms ytdl-core canvas hh-mm-ss youtube-info simple-youtube-api util gif-search jimp guild hastebin-gen get-youtube-id pretty-ms moment request ffmpeg 
 ffmpeg-static quick.db node-fetch@2.6.1 dotenv
 `
