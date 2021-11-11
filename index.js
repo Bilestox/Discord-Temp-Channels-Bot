@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Nexus Source');
 });
-const dotenv = require('dotenv')
 const Discord = require("discord.js")
 const client = new Discord.Client()
 const cmd = require("node-cmd");
@@ -29,9 +28,6 @@ const getYoutubeID = require('get-youtube-id');
 const pretty = require("pretty-ms");
 const moment = require('moment');
 const request = require('request');
-const ffmpeg = require('ffmpeg');
-const ffmpegstatic = require('ffmpeg-static');
-const db = require("quick.db");
 const prefix = "-"////Ur Prefix
 client.login(process.env.token)
 const fetch = require("node-fetch")
